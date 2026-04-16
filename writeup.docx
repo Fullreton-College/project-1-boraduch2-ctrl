@@ -1,0 +1,8 @@
+In this project, the C++ program that reads a text file and counts how many times each word appears. 
+The file used is a short Sherlock Holmes passage.
+The program basically opens a file called homes.txt, reads all the words, sorts them, and then
+counts how many times each word shows up. Finally, it prints each word with its count. 
+The functions used:
+getWords: this function reads words from the file and stores them in a vector. 
+sortWords: this function sorts all the words alphabetically.
+getWordCounts: this function counts how many times each word appears and stores the result as a word and a number. 
